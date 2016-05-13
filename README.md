@@ -1,4 +1,4 @@
-# react-webpack-starter-kit
+# React Webpack Starter Kit
 
 ## Includes
 
@@ -26,3 +26,9 @@ Once download has finished, you'll notice you now have a node_modules folder ful
 * In the root of your project folder run the command >> npm start <<  This will spin up the server.
 * In the browser, type in >> localhost:8080 << and you're set to go.
 * Any changes you make, once saved in your text editor will reflect right away in the browser.
+
+
+## Ready To Ship
+
+* To create a production ready version of your project, simply run this command >> npm run build <<
+* This will build and minify your project, making it web ready for the world to see your beautiful work.
